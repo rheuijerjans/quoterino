@@ -37,7 +37,7 @@ Usage
 -----
 - Debug the application: mvn spring-boot:run
 - Build a jar: mvn install
-- Run the jar: java filename.jar
+- Run the jar: java -jar filename.jar &
 - Override default properties: put a application.properties file in ./config relative to the jar file.
 
 see:
